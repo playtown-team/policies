@@ -1,4 +1,4 @@
-POLÍTICA DE PRIVACIDAD PARA APLICACIONES MÓVILES (APPS)
+# POLÍTICA DE PRIVACIDAD PARA APLICACIONES MÓVILES (APPS)
 
 **Fecha última actualización:** 07/04/2022
 
@@ -7,6 +7,7 @@ la protección de las personas físicas en lo que respecta al tratamiento de dat
 datos (Reglamento General de Protección de Datos - RGPD), PLAYTOWN S.A., informa a los usuarios de la
 aplicación "La misma Barca" (en adelante, la Aplicación), acerca del tratamiento de los datos personales, que ellos
 voluntariamente hayan facilitado durante el proceso de registro, acceso y utilización del servicio.
+
 1. IDENTIFICACIÓN DEL RESPONSABLE DEL TRATAMIENTO.
 PLAYTOWN S.A., con Domicilio a efectos de notificaciones en:
 Av. Córdoba 5869 6B, Buenos Aires, Argentina inscripción ª (en adelante, el Responsable del Tratamiento), es la entidad
