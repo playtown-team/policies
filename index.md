@@ -1,5 +1,7 @@
 POLÍTICA DE PRIVACIDAD PARA APLICACIONES MÓVILES (APPS)
-Fecha última actualización: 07/04/2022
+
+**Fecha última actualización:** 07/04/2022
+
 De conformidad con el Reglamento (UE) 2016/679, del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a
 la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos
 datos (Reglamento General de Protección de Datos - RGPD), PLAYTOWN S.A., informa a los usuarios de la
